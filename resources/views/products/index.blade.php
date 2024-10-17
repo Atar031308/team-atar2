@@ -13,7 +13,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div>
-                    <h1 class="text-center my-4">assalamualaikunm</h1>
+                    <h1 class="text-center my-4">assalamualaikum jap, apa kabar?</h1>
                     <hr>
                 </div>
                 <div class="card border-0 shadow-sm rounded">
